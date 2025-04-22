@@ -32,6 +32,6 @@ Choose KuaiYa VPN — Secure. Reliable. Free Forever.
 ©2024 FastNodes LLC.
 Company address:1942 BROADWAY STE 314C BOULDER,Colorado,USA  All rights reserved
 
-Contact us Email:support@rockmail.cc 
+Contact us Email:  support@rockmail.cc 
 
 
