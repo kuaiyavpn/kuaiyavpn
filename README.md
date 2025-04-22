@@ -11,3 +11,8 @@
 ### 点击右上角在浏览器打开下载
 #### :arrow_double_down: [官方网站链接](http://xddx.cc)
 ---
+
+©2024 FastNodes LLC.
+1942 BROADWAY STE 314C BOULDER,Colorado,USA
+All rights reserved
+问题反馈邮箱:support@rockmail.cc 
