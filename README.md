@@ -10,7 +10,7 @@
 ---
 ### 点击右上角在浏览器打开下载
 #### :arrow_double_down: [官方网站链接](http://xddx.cc)
-#### :arrow_double_down: [官方网站链接](https://kuaiyavpn.github.io/download)
+#### :arrow_double_down: [下载地址](https://kuaiyavpn.github.io/download)
 
 
 ---
