@@ -10,6 +10,9 @@
 ---
 ### 点击右上角在浏览器打开下载
 #### :arrow_double_down: [官方网站链接](http://xddx.cc)
+#### :arrow_double_down: [下载地址]([http://xddx.cc](https://kuaiyavpn.github.io/download))
+
+
 ---
 
 快鸭VPN运营和开发的主体公司FastNodes LLC是一家注册于美国的科技公司，致力于为全球用户提供安全、稳定、注重隐私的 VPN 服务。我们的团队由来自世界各地的优秀程序员和技术人员组成，跨越国界、跨越种族，共同协作开发和运营，打造出真正全球化的高品质网络工具。
